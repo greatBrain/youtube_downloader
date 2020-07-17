@@ -1,0 +1,2 @@
+pytube==9.6.4
+tkinter==8.6
